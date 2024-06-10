@@ -1,152 +1,188 @@
-__label__Hamlet nay know king
-__label__Polonius think
-__label__Hamlet marri mich malhecho mean mischief
-__label__Hamlet like well foil length
-__label__Polonius king ho mark
-__label__Hamlet smelt pah
-__label__Hamlet fair
-__label__Hamlet believ noti cold wind northerli
-__label__Hamlet gentlemen welcom elsinor hand come th appurten welcom fashion ceremoni let compli garb lest extent player tell must show fairli outward appear like entertain welcom uncl father aunt mother deceiv would
-__label__Hamlet bodi king king bodi king thing
-__label__Hamlet would
-__label__Hamlet well lord grace laid odd th weaker side
-__label__Hamlet slander sir satir rogu say old men grey beard face wrinkl eye purg thick amber plum tree gum plenti lack wit togeth weak ham sir though power potent believ yet hold honesti thu set sir old like crab could go backward
-__label__Laertes touch touch confess
-__label__Hamlet dost think alexand look would fashion th earth
-__label__Laertes world mean husband well shall go far littl
-__label__Polonius good amobl queen good
-__label__Hamlet courtier could say good morrow sweet lord dost good lord might lord one prai would lord one hors meant beg might
-__label__Hamlet inde upon sword inde
-__label__Hamlet prithe mock fellow student think see mother wed
-__label__Hamlet nay follow
-__label__Laertes king sir staid without
-__label__Hamlet keep word
-__label__Hamlet ho horatio
-__label__Polonius sir say mass say someth leav
-__label__Polonius hath lord wrung slow leav laboursom petit last upon seal would hard consent beseech give leav go
-__label__Hamlet welcom
-__label__Hamlet chanc travel resid reput profit better way
-__label__Laertes cut throat th church
-__label__Polonius asid say still harp daughter yet knew first said fishmong far gone far gone truli youth suff are much extrem love near speak read lord
-__label__Hamlet hold hand
-__label__Polonius lord news tell
-__label__Polonius good madam stay awhil faith read wouldoubt star fire doubt sun doth move doubt truth liar never doubt love dear ophelia ill number art reckon groan love best best believ adieu nothin evermor dear ladi whilst machin hamlet obedi hath daughter shown hath solicit fell time mean place given mine ear
-__label__Hamlet purpo would sir pray
-__label__Polonius behind ho help help help
-__label__Hamlet think meant countri matter
-__label__Polonius follow lord
-__label__Laertes nois enter ophelia heat dri brain tear seven time salt burn sens virtu mine eye heaven thi mad shall paid weight till scale turn beam rose may dear maid kind sister sweet ophelia heaven possibl young maid wit mortal old man life natur fine love noti fine send preciou instanc thing love
-__label__Hamlet buri
-__label__Laertes hamlet hamlet art slain medicin world good half hour life treacher instrument thi hand unbat envenom would foul practic hath turn would lo lie never rise thi mother poison would king king blame
-__label__Polonius matter lord
-__label__Hamlet hark guildenstern ear hearer great babi see yet swaddl clout
-__label__Hamlet shall know fellow player cannot keep counsel tell
-__label__Hamlet laert nobl youth mark
-__label__Hamlet come grow rusti
-__label__Hamlet let strucken deer go weep hart ungal play must watch must sleep thu run world away would sir forest feather rest fortun turn turk two provinci rose raz would shoe get fellowship cri player sir
-__label__Hamlet heaven make free follow dead horatio wretch queen adieu look pale trembl chanc mute audienc act time fell sergeant death strict arrest could tell let horatio dead liv ist report caus aright unsatisfi
-__label__Polonius lord account good actor
-__label__Polonius hear come let withdraw lord
-__label__Hamlet asid wormwood wormwood queen instanc second marriag move base respect thrift none love second time kill husband dead second husband kiss bed
-__label__Polonius marri sir drift believ fetch warrant lay slight sulli son notwer thing littl soil would th work mark parti convers would sound ever seen prenomin crime youth breath guilti assur would close consequ good sir friend gentleman accord phrase addit man countri
-__label__Laertes dread lord leav favour return franc whenc though willingli came denmark show duti coron yet must confess duti done thought wish bend toward franc bow graciou leav pardon
-__label__Hamlet easili said leav friend exeunt hamlet noti witch time night churchyard yawn hell breath contagion world could drink hot blood bitter busi day would quak look soft mother heart lose thi natur let ever soul nero enter firm bosom let cruel unnatur speak dagger use none tongu soul hypocrit word somev shent give seal never soul consent exit
-__label__Hamlet believ
-__label__Hamlet long sinc
-__label__Hamlet skull tongu could sing knave jowl ground notwer cain jawbon first murther might pate politician ass erreach one would circumv god might
-__label__Hamlet tame neither let discret tutor suit action word word action special observ erstep modesti natur anyth overdon purpos play whose end first hold notwer mirror natur show virtu featur scorn imag age bodi time form pressur overdon come tardi though make unskil laugh cannot make judici griev censur one must allow erweigh whole theatr other player seen play heard other prais highli speak profan neither accent christian gait christian pagan man strut bellow thought natur journeymen made men made well imit human abomin
-__label__Polonius come sir
-__label__Hamlet would sir yet faith would much approv well sir
-__label__Hamlet love mine farewel exeunt hamlet father spirit arm well doubt foul play would night come till sit still soul foul deed rise though earth erwhelm men eye
-__label__Hamlet ay truli power beauti sooner transform honesti bawd forc honesti translat beauti like sometim paradox time give proof love
-__label__Polonius lord
-__label__Polonius know lord
-__label__Hamlet rood queen husband brother wife would mother
-__label__Laertes nobl father lost sister driven desp rate term whose worth prais may go back stood challeng mount age perfect reveng come
-__label__Hamlet upon talk poison
-__label__Hamlet ay marri mind though nativ manner born custom honour would breach observ heavi head revel east west make us traduc would tax would nation clip us drunkard swinish phrase soil addit inde take achiev though perform would height pith marrow attribut oft chanc particular men viciou mole natur birth wherein guilti sinc natur cannot choos origin ergrowth complexion oft break pale fort reason habit much erleaven form plausiv manner men carri say stamp one defect natur liveri fortun star virtu els pure grace infinit man may undergo shall gener censur take corrupt particular fault dram e il doth nobl substanc often dout scandal
-__label__Hamlet speak follow
-__label__Hamlet methink like weasel
-__label__Polonius lord
-__label__Hamlet dare drink yet madam
-__label__Hamlet one fair daughter love pass well
-__label__Hamlet yet methink sultri hot complexion
-__label__Hamlet commiss read leisur wilt bear proceed
-__label__Hamlet prophesi come tell player mark say right sir monday morn twa inde
-__label__Hamlet could interpret love could see puppet dalli
-__label__Laertes satisfi natur whose motiv case stir reveng term honour stand aloof reconcil till elder master known honour voic preced peac keep name ungor would till time receiv offer would love like love wrong
-__label__Hamlet upon sword
-__label__Hamlet bid player make hast exit poloniu two help hasten
-__label__Laertes 
-__label__Hamlet noti none noth either good bad think make prison
-__label__Hamlet glad see bernardo good even sir faith make wittenberg
-__label__Hamlet ecstasi puls doth temper keep time make health music mad utt are bring test matter reword mad would gambol mother love grace lay flatter unction soul trespass mad speak skin film ulcer place while rank corrupt mine within infect unseen confess heaven repent past avoid come spread compost weed make ranker forgiv virtu fat pursi time virtu vice must pardon beg yea curb woo leav good
-__label__Hamlet jest poison jest offenc th world
-__label__Hamlet fright fals fire
-__label__Hamlet think sinc went franc continu practic shall win odd wouldst think ill heart matter
-__label__Hamlet drink sir
-__label__Hamlet beggar bodi monarch outstretch would hero beggar shadow shall th court fay cannot reason
-__label__Hamlet word word word
-__label__Hamlet effect sir flourish natur
-__label__Laertes heavi let see anoth
-__label__Hamlet e en ladi worm chapless knock would mazzard sexton spade fine revolut trick see bone cost breed play logget em mine ach think
-__label__Hamlet let see take skull ala poor yorick knew horatio fellow infinit jest excel fanci hath born back thousand time abhor imagin gorg rise hung lip kiss would know oft gibe gambol song flash merriment wont set tabl roar one mock grin quit chap fall n get ladi chamber tell let paint inch thick favour must come make laugh prithe horatio tell one thing
-__label__Hamlet compli dug suck would thu mani bevi know drossi age dote got tune time outward habit encount kind yesti collect carri fann would winnow opinion blow trial bubbl
-__label__Hamlet watch night perchanc notwil walk
-__label__Hamlet mean bid let bloat king tempt bed pinch wanton cheek call mous let pair reechi kiss paddl neck damn would finger make ravel matter essenti mad mad craft notwer good let know queen fair sober wise would paddock bat gib dear concern hide would despit sens secreci unpeg basket hous top let bird fli like famou ape tri conclus basket creep break neck
-__label__Hamlet goe main poland sir frontier
-__label__Hamlet see yonder cloud almost shape camel
-__label__Hamlet letter seal would two schoolfellow trust adder fang would bear mandat must sweep way marshal knaveri let work noti sport engin hoist petar shall go hard delv one yard mine blow moon noti sweet one line two craft directli meet man shall set pack lug gut neighbour room mother good night inde counsellor still secret grave life foolish peat knave come sir draw toward end good night mother
-__label__Laertes pray give leav
-__label__Hamlet might pat pray goe heaven reveng would would scann would villain kill father sole son villain send heaven hire salari reveng took father grossli full bread crime broad blown flush may audit stand know save heaven circumst cours thought noti heavi reveng would take purg soul fit season passag sword know horrid hent drunk asleep rage th incestu pleasur bed game swear act relish salvat trip heel may kick heaven soul may damn would black hell whereto goe mother stay physic prolong thi sickli day exit
-__label__Polonius ay drink fenc swear quarrel drab may go far
-__label__Hamlet king doth wake night take rous keep wassail swagg ring upspr reel drain draught rhenish kettledrum trumpet thu bray triumph pledg
-__label__Hamlet inde inde sir troubl hold watch night
-__label__Hamlet cabin sea gown scarf would dark grop would find desir finger would packet fine withdrew mine room make bold fear forget manner unseal grand commiss found horatio royal knaveri exact command lard mani sever sort reason import denmark health england hoo bug goblin life supervis leisur bate stay find axe head struck
-__label__Hamlet saw
-__label__Polonius wherefor
-__label__Hamlet tame sir pronounc
-__label__Laertes humbl take leav lord
-__label__Hamlet come tardi son chide lap would time passion let go th import act dread command say
-__label__Polonius lord assur good lieg hold duti hold soul god graciou king think els brain mine hunt trail polici sure hath us would found caus hamlet lunaci
-__label__Laertes mock sir
-__label__Hamlet solid flesh would melt thaw resolv dew everlast fix would canon gainst self slaughter god god weari stale flat unprofit seem use world fie ah fie noti unweed garden grow seed thing rank gross natur possess mere come two month dead nay much two excel king hyperion satyr love mother might beteem wind heaven visit face roughli heaven earth must rememb would hang increas appetit grown fed yet within month let think frailti thi name woman littl month ere shoe old follow poor father bodi like niob tear even god beast want discours reason would mourn would longer marri uncl father brother like father hercul within month ere yet salt unright tear left flush gall eye marri wick speed post dexter incestu sheet cannot come good break heart must hold tongu
-__label__Hamlet assum nobl father person speak though hell gape bid hold peac pray hitherto conceal would sight let tenabl silenc still whatsoev els shall hap night give understand tongu requit love fare well upon platform notwixt eleven twelv visit
-__label__Hamlet must take husband begin murther pox leav thi damnabl face begin come croak raven doth bellow reveng luc thought black hand apt drug fit time agre confeder season els creatur see mixtur rank midnight weed collect hecat ban thrice blast thrice infect thi natur magic dire properti wholesom life usurp immedi
-__label__Polonius enact juliu caesar kill would th capitol brutu kill would
-__label__Polonius close consequ ay marri close thu know gentleman saw yesterday day say game ertook rous fall tenni perchanc saw enter hous sale videlicet brothel forth see bait falsehood take carp truth thu wisdom reach windlass assay bia indirect find direct former lectur advic shall son
-__label__Hamlet excel well fishmong
-__label__Hamlet wisdom show richer signifi doctor put purgat would perhap plung far choler
-__label__Hamlet come mother fool top bent come
-__label__Hamlet anoth may skull lawyer quiddit quillet case tenur trick suffer rude knave knock sconc dirti shovel tell action batteri hum fellow might time great buyer land statut recogniz fine doubl voucher recoveri fine fine recoveri recoveri fine pate full fine dirt voucher vouch purchas doubl one length breadth pair indentur convey land scarc lie box must th inheritor ha
-__label__Hamlet sir good friend chang name make wittenberg horatio marcellu
-__label__Hamlet top toe
-__label__Hamlet throw away worser part live purer half good night go uncl bed assum virtu monster custom sens doth eat habit evil angel yet use action fair good likewis give frock liveri aptli put refrain night shall lend kind easi next abstin next easi use almost chang stamp natur either master devil throw wondrou potenc good night desir blest bless beg lord repent heaven hath plea would punish must scourg minist bestow answer well death gave good night must cruel kind thu bad begin wors remain behind one word good ladi
-__label__Hamlet like whale
-__label__Hamlet draw rat dead ducat dead
-__label__Hamlet come forward whose grief bear emphasi whose phrase sorrow conjur wand ring star make stand like wonder wound hearer hamlet dane leap laert
-__label__Hamlet noth
-__label__Hamlet supper
-__label__Hamlet god love let hear
-__label__Hamlet see noth
-__label__Hamlet god bodykin man much better use everi man desert scape whip use honour digniti less deserv merit bounti take
-__label__Polonius let pli music
-__label__Hamlet noti well speak rest soon good lord see player well bestow would hear let well us would abstract brief chronicl time death better bad epitaph ill report live
-__label__Hamlet well god merci
-__label__Hamlet man take shall look upon like
-__label__Laertes came dead juggl hell allegi vow blackest devil conscienc grace profoundest pit dare damnat point stand world give neglig let come come reveng would throughli father
-__label__Polonius actor come hither lord
-__label__Laertes justli serv would poison temper would exchang forgiv nobl hamlet mine father death come upon thine die
-__label__Hamlet live waist middl favour
-__label__Hamlet cannot sir take anyth willingli part withal except life except life except life
-__label__Hamlet beard grizzl
-__label__Hamlet 
-__label__Hamlet strang uncl king denmark would make mow father live give twenti forti fifti hundr ducat apiec pictur littl isblood someth natur philosophi could find
-__label__Laertes ceremoni els
-__label__Hamlet act blur grace blush modesti call virtu hypocrit take rose fair forehead innoc love set blister make marriag vow fals dicer oath deed bodi contract pluck soul sweet religion make rhapsodi word heaven face doth glow yea solid compound mass trist visag doom thought sick act
-__label__Laertes ceremoni els
-__label__Polonius ophelia walk graciou pleas bestow ophelia read book show exercis may colour loneli oft blame noti much prov would devot visag piou action sugar er devil
-__label__Hamlet mother matter
-__label__Hamlet mother father mother man wife man wife one flesh mother come england
-__label__Laertes know well broach inde gem nation
-__label__Hamlet king father
+__label__Antony let fellow take reward say god quit familiar playfellow hand kingli seal plighter high heart upon hill basan outroar horn herd savag caus proclaim civilli like halter would neck hangman thank yare enter attend thyreu whipp would
+__label__Queen_Margaret leav stay dog shalt hear heaven grievou plagu store exceed wish upon let keep till thi sin ripe hurl indign troubler poor world peac worm conscienc still begnaw thi soul thi friend suspect traitor livest take deep traitor thi dearest friend sleep close deadli eye thine unless whilst torment dream affright hell ugli devil elvish mark would abort root hog wast seal would thi nativ slave natur son hell slander thi mother heavi womb loath issu thi father loin rag honour detest
+__label__Queen_Margaret perhap shall rescu french need crave courtesi
+__label__Queen_Margaret head set york gate york may overlook town york
+__label__Cleopatra sick sullen
+__label__Cleopatra tall
+__label__Queen_Margaret way
+__label__Antony yet hear countrymen yet hear speak
+__label__Queen_Margaret belik suspect noblemen guilti duke humphrey timeless death
+__label__Antony desir
+__label__Antony leav ladi
+__label__Queen_Margaret poor chicken sure death
+__label__Antony favour jove thunder art fellow
+__label__Antony fled instruct coward run show shoulder friend gone resolv upon cours need gone treasur harbour take follow would blush look upon hair mutini white reprov brown rash fear dote friend gone shall letter friend sweep way pray look sad make repli loath take hint despair proclaim let left leav sea side straightway possess ship treasur leav pray littl pray nay inde lost command therefor pray see sit enter cleopatra led charmian ira ero follow
+__label__Antony speak home minc gener tongu name cleopatra call would rome rail fulvia phrase taunt fault full licenc truth malic power utter bring forth weed quick mind lie still ill told us ear fare well awhil
+__label__Cleopatra prais antoni disprais caesar
+__label__Antony caesar
+__label__Antony quick sand lepidu keep sink
+__label__Antony set squadron yond side hill eye caesar battl place may number ship behold proceed accordingli
+__label__Antony morrow soldier sea land fight live bath die honour blood shall make live woo fight well
+__label__Queen_Margaret thi ambit gloucest
+__label__Queen_Margaret lord vex half much proud dame lord protector wife sweep court troop ladi like empress duke humphrey wife stranger court take queen bear duke revenu back heart scorn poverti shall live aveng contemptu base born callet vaunt amongst minion day train worst wear gown better worth father land till suffolk gave two dukedom daughter
+__label__Cleopatra buckl well
+__label__Cleopatra kind messeng say great caesar deput kiss conquer hand tell prompt lay crown feet kneel tell obey breath hear doom egypt
+__label__Cleopatra make fortun
+__label__Queen_Margaret see reason king year protect like child god king henri govern england realm give staff sir king realm
+__label__Antony shall sir give hand
+__label__Cleopatra sweet balm soft air gentl antoni nay take appli anoth asp arm stay
+__label__Cleopatra never queen mightili betray would yet first saw treason plant
+__label__Queen_Margaret renown princ shall poor henri live unless rescu foul despair
+__label__Cleopatra help away dear charmian shall fall cannot thu long side natur sustain
+__label__Antony would thi scar prevail would make fight land
+__label__Antony person noti imposs strang power canidiu nineteen legion shalt hold land twelv thousand hors ship away theti enter soldier worthi soldier
+__label__Queen_Margaret oft heard grief soften mind make fear degener think therefor reveng ceas weep ceas weep look may head lie throb breast bodi embrac
+__label__Antony nightingal beat bed girl though grey someth mingl younger brown yet ha brain nourish nerv get goal goal youth behold man commend unto lip thi favour hand kiss warrior hath fought day god hate mankind destroy would shape
+__label__Cleopatra dispos mirth sudden roman thought hath struck enobarbu
+__label__Antony satisfi caesar sit alexandria oppos fate forc land hath nobli held sever would navi knit fleet threaten sea like hast heart dost hear ladi field shall return kiss lip appear blood sword earn chronicl hope yet
+__label__Antony well well away
+__label__Queen_Margaret ay begin second storm rise move wind tide
+__label__Antony nobl caesar
+__label__Queen_Margaret peac impud shameless warwick peac proud setter puller king henc till talk tear full truth make king lewi behold thi sli convey thi lord fals love bird selfsam feather
+__label__Antony fair word
+__label__Antony sweet queen
+__label__Cleopatra caesar wound shame vouchsaf visit honour thi lordli one meek mine servant parcel sum disgrac addit envi say good caesar ladi trifl reserv immoment toy thing digniti greet modern friend withal say nobler token kept apart livia octavia induc mediat must unfold one bred god smite beneath fall seleucu prithe go henc shall show cinder spirit ash chanc wert man wouldst merci
+__label__Antony power agrippa would say agrippa make good
+__label__Queen_Margaret say earl suffolk thi name ransom must pay pass perceiv thi prison
+__label__Cleopatra saw lord
+__label__Cleopatra think charmian dull tongu dwarfish majesti gait rememb e er look wouldst majesti
+__label__Antony sea sea
+__label__Queen_Margaret ay good lord leav us fortun
+__label__Antony matter
+__label__Antony reason
+__label__Antony gone
+__label__Antony let work mischief art afoot take cours wilt enter servant fellow
+__label__Queen_Margaret believ lord fli brook saw better sport seven year day yet leav wind high ten one old joan gone
+__label__Queen_Margaret farewel lord good wish prais prayer shall suffolk ever margaret
+__label__Cleopatra fals love sacr vial shouldst fill sorrow water see see fulvia death mine receiv shall
+__label__Queen_Margaret yea much better blood thine
+__label__Queen_Margaret dost scorn gentl counsel sooth devil warn rememb anoth day shall split thi heart sorrow say poor margaret prophetess live subject hate god
+__label__Queen_Margaret henri let plead gentl suffolk
+__label__Cleopatra even doubt
+__label__Queen_Margaret believ ascend sky awak god gentl sleep peac buckingham take heed yonder dog look fawn bite bite venom tooth rankl death bewar sin death hell set mark minist attend
+__label__Antony good rebuk might well becom best men taunt slack canidiu fight sea
+__label__Queen_Margaret margaret name daughter king king napl whoso er art
+__label__Cleopatra charmian think ist stand sit walk hors happi hors bear weight antoni brave hors wot ist movest demi atla earth arm burgonet men speak murmur serpent old nile call feed delici poison think phoebu amor pinch black wrinkl deep time broad front caesar wast ground morsel monarch great pompey would stand make eye grow brow would anchor aspect die look life
+__label__Antony shall rememb caesar say wouldo perform would
+__label__Cleopatra like yet allay good preced fie upon yet yet gaoler bring forth monstrou malefactor prithe friend pour pack matter mine ear good bad togeth friend caesar state health say ist say ist free
+__label__Cleopatra hast forspok war say ist fit
+__label__Cleopatra lead goe forth gallantli caesar might determin great war singl fight antoni well
+__label__Queen_Margaret let entreat ceas give thi hand may dew mourn tear let rain heaven wet place wash away woful monument could kiss print thi hand mightst think upon seal thousand sigh breath get gone may know grief noti surmis while art stand one surfeit think want repeal well assur adventur banish banish go speak even gone go yet even thu two friend condemn would embrac kiss take ten thousand leav loather hundr time part die yet farewel farewel life
+__label__Antony nay nay octavia excus thousand semblabl import hath wage new war gainst pompey made read public ear spoke scantli perforc could pay term honour cold sickli vent narrow measur lent best hint given took teeth
+__label__Antony bad stroke brutu give good word wit hole made caesar heart cri long live hail caesar
+__label__Cleopatra ceremoni see women blown rose may stop nose kneel would unto bud admit sir
+__label__Queen_Margaret take heart
+__label__Cleopatra dream would emperor antoni anoth sleep might see anoth man
+__label__Antony well worst
+__label__Antony well said come call forth household servant let night bounteou meal enter three four servitor give thi hand hast rightli honest hast serv well king fellow
+__label__Antony boggler ever vicious grow hard miseri wise god seel eye filth drop clear judgment make us ador error laugh strut confus
+__label__Cleopatra certain
+__label__Cleopatra lord lord forgiv fear sail littl thought would follow would
+__label__Queen_Margaret nay go follow
+__label__Cleopatra ay ay farewel
+__label__Antony brutu friend assur prize less worth keep man safe give kind rather men friend enemi go see whether brutu aliv dead bring us word unto octaviu tent everi thing chanc
+__label__Cleopatra death rid dog languish
+__label__Antony send
+__label__Cleopatra isi give bloodi teeth caesar paragon man men
+__label__Cleopatra part foolish hair colour
+__label__Queen_Margaret plantagenet doth quit plantagenet edward edward pay die debt
+__label__Antony hear patienc
+__label__Queen_Margaret butcher suffolk knife beaufort term would kite talon
+__label__Queen_Margaret thank gentl somerset sweet oxford thank
+__label__Cleopatra hie spoke alreadi provid go put hast
+__label__Antony sit sir
+__label__Cleopatra done yet
+__label__Queen_Margaret lessen would small god beseech thi honour state seat due
+__label__Cleopatra known greatest misthought thing other fall answer other merit name therefor piti
+__label__Antony let thing hast drawn
+__label__Cleopatra none friend say boldli
+__label__Antony make free sworest bade thi preced servic accid unpurpos draw come
+__label__Queen_Margaret call
+__label__Cleopatra man hath seen majesti know
+__label__Cleopatra charmian never go henc
+__label__Antony egypt knew ist well heart thi rudder tie string shouldst tow er spirit thi full supremaci knew ist thi beck might bid god command
+__label__Queen_Margaret say
+__label__Cleopatra sleep littl
+__label__Antony say ist
+__label__Antony shall live look spot damn lepidu go caesar hous fetch hither shall determin cut charg legaci
+__label__Queen_Margaret king forsooth
+__label__Cleopatra caesar
+__label__Antony fear caesar danger nobl roman well given
+__label__Queen_Margaret unworthi henri wife
+__label__Cleopatra look upon go us
+__label__Cleopatra one thing ask yet good charmian noti matter shalt bring write may well enough
+__label__Queen_Margaret hie hell shame leav world cacodemon thi kingdom
+__label__Antony caesar lord
+__label__Antony cri begg would pardon
+__label__Cleopatra desol begin make better life noti paltri caesar fortun fortun knave minist great thing end deed shackl accid bolt chang sleep never palat dug beggar nurs caesar enter gate monument proculeiu gallu soldier
+__label__Antony ay lepidu
+__label__Cleopatra quick quick good hand
+__label__Antony friend go know wherein hath caesar thu deserv love ala know must tell forgot told
+__label__Antony dead queen look thi sovereign leisur read garboil awak last best see die
+__label__Antony compos well parthia hark ventidiu
+__label__Queen_Margaret 
+__label__Cleopatra paid lead henc faint ira charmian noti matter go fellow good alexa bid report featur octavia year inclin let leav colour hair bring word quickli exit alexa let ever go let charmian though paint one way like gorgon way mar bid alexa mardian bring word tall piti charmian speak lead chamber
+__label__Cleopatra much unlik art mark antoni yet come great medicin hath tinct gild goe brave mark antoni
+__label__Antony grate sum
+__label__Queen_Margaret enforc art king wilt forc shame hear speak ah timor wretch hast undon thyself thi son given unto hous york head shalt reign suffer entail heir unto crown make thi sepulchr creep far thi time warwick chancellor lord calai stern falconbridg command narrow sea duke made protector realm yet shalt safe safeti find trembl lamb environ wolv silli woman soldier toss would pike would grant act preferr ist thi life thine honour see dost divorc thi tabl henri thi bed act parliament repeal would wherebi son disinherit northern lord forsworn thi colour follow mine see spread spread shall thi foul disgrac utter ruin hous york thu leav come son let away armi readi come
+__label__Cleopatra salad day green judgment cold blood say said come away get ink paper shall everi day sever greet unpeopl egypt
+__label__Antony octaviu seen day though lay honour man eas diver slander load shall bear ass bear gold groan sweat busi either led driven point way brought treasur take load turn like empti ass shake ear graze common
+__label__Cleopatra cut lace charmian come let quickli ill well antoni love
+__label__Queen_Margaret made fight fli manhood wisdom defenc give enemi way secur us fli alarum afar ta en see bottom fortun hapli scape well may neglect shall london get love breach fortun made may readili stopp would
+__label__Queen_Margaret thrice nobl suffolk noti resolut spoke
+__label__Cleopatra prove base first meet curl antoni make demand spend kiss heaven come mortal wretch asp appli breast thi sharp teeth knot intrins life unti poor venom fool angri dispatch couldst speak might hear call great caesar ass unpolici
+__label__Cleopatra herod head antoni gone might command come near
+__label__Antony art diom draw thi sword give suffic stroke death
+__label__Cleopatra hurt exit charmian hand lack nobil strike meaner sinc given caus enter charmian messeng come hither sir though honest never good bring bad news give graciou messag host tongu let ill tide tell felt
+__label__Cleopatra denounc us person
+__label__Queen_Margaret ah danger fond affianc seem dove feather borrow dispos hate raven lamb skin sure lent inclin raven wolf cannot steal shape mean deceit take heed lord welfar us hang cut short fraud man
+__label__Antony hors octaviu appoint store provend creatur teach fight wind stop run directli corpor motion govern would spirit tast lepidu must taught train would bid go forth barren spirit fellow one feed abject ort imit use stale men begin fashion talk properti octaviu listen great thing brutu cassiu levi power must straight make head therefor let allianc combin best friend made mean stretch would let us present go sit council covert matter may best disclos open peril surest answer
+__label__Antony answer
+__label__Antony sirrah wish egypt
+__label__Cleopatra didst hear speak shrill tongu low
+__label__Antony well good fellow wait night scant cup make much mine empir fellow suffer would command
+__label__Antony therefor took hand inde sway would point look caesar friend love upon hope shall give reason wherein caesar danger
+__label__Antony henc sauci eunuch peac hath betray would shall die death
+__label__Antony tut bosom know wherefor could content visit place come fear braveri think face fasten thought courag noti
+__label__Antony ladi
+__label__Queen_Margaret hadst clarenc richard kill would forth kennel thi womb hath crept hell hound doth hunt us death dog teeth eye worri lamb lap gentl blood foul defac god handiwork excel grand tyrant earth reign gall eye weep soul thi womb let loos chase us grave upright true dispos god thank carnal cur prey issu mother bodi make pew fellow other moan
+__label__Antony doubt wisdom let man render bloodi hand first marcu brutu shake next caiu cassiu take hand deciu brutu metellu cinna valiant casca though last last love good treboniu gentlemen ala shall say credit stand slipperi ground one two bad way must conceit either coward flatter love caesar noti true thi spirit look upon us shall griev dearer thi death see thi thi anthoni make peac shake bloodi finger thi foe nobl presenc thi cors mani eye hast wound weep fast stream forth thi blood would becom better close term friendship thine enemi pardon juliu wast bay would brave hart didst fall thi hunter stand sign would thi spoil crimson would thi leth world wast forest hart inde world heart like deer strucken mani princ dost lie
+__label__Antony brother luciu
+__label__Queen_Margaret look would repli let make period curs
+__label__Cleopatra think mine true though swear shake throne god fals fulvia riotou mad entangl mouth made vow break swear
+__label__Antony slight unmerit man meet sent errand fit three fold world divid stand one three share
+__label__Cleopatra 
+__label__Antony ero wouldst window would great rome see thi master thu pleach would arm bend corrig neck face subdu penetr shame whilst wheel would seat fortun caesar drawn brand base ensu
+__label__Antony entreat weigh worth embrac
+__label__Queen_Margaret lord knight gentlemen say tear gainsay everi word speak ye see drink water mine eye therefor henri sovereign prison foe state usurp would realm slaughter hous subject slain statut cancel would treasur spent yonder wolf make spoil fight justic god name lord valiant give signal fight
+__label__Antony tend night may period duti hapli shall see mangl shadow perchanc morrow serv anoth master look one take leav mine honest friend turn away like master marri good servic stay till death tend night two hour ask god yield
+__label__Cleopatra take care shall heed
+__label__Cleopatra pale charmian
+__label__Antony beggari love reckon would
+__label__Queen_Margaret wilt accept ransom yea
+__label__Antony tell wear rose youth upon world note someth particular coin ship legion may coward whose minist would prevail servic child soon command caesar dare therefor lay gay comparison apart answer declin sword sword alon write follow
+__label__Antony 
+__label__Antony fight sea
+__label__Antony gentl octavia let best love draw point seek best preserv lose mine honour lose better branchless request shall go mean time ladi rais prepar war shall stain brother make soonest hast desir
+__label__Antony world great offic sometim divid bosom
+__label__Antony caesar seal everi roman citizen give everi sever man seventi five drachma
+__label__Cleopatra would thi inch shouldst know heart egypt
+__label__Queen_Margaret repetit hast marr would make let go
+__label__Queen_Margaret nay stay let hear orison make
+__label__Cleopatra go go enter messeng come hither sir
+__label__Queen_Margaret subtl traitor need sophist
+__label__Cleopatra 
+__label__Queen_Margaret see ye observ strang alter would counten majesti bear insol late becom proud peremptori unlik know time sinc mild affabl glanc far look immedi upon knee court admir submiss meet morn everi one give time day knit brow show angri eye passeth stiff unbow knee disdain duti us belong small cur regard grin great men trembl lion roar humphrey littl man england first note near descent fall next mount seemeth polici respect rancor mind bear advantag follow deceas come royal person admit high council flatteri hath common heart pleas make commot noti fear would follow noti spring weed shallow root suffer ergrow garden choke herb want husbandri rever care bear unto lord made collect danger duke fond call woman fear fear better reason supplant subscrib say wrong would duke lord suffolk buckingham york reprov alleg els conclud word effectu
+__label__Cleopatra lead triumph
+__label__Antony cun past man thought
+__label__Queen_Margaret graciou word reviv droop thought give tongu tie sorrow leav speak therefor known nobl lewi henri sole possessor love king becom banish would man forc live scotland forlorn proud ambiti edward duke york usurp regal titl seat england true anoint law king caus poor margaret son princ edward henri heir come crave thi law aid fail us hope done scotland hath help cannot help peopl peer misl treasur seiz soldier put flight seest heavi plight
+__label__Queen_Margaret art neither like thi sire dam like foul mi shapen stigmat mark would destini avoid venom toad lizard dread sting
+__label__Cleopatra pray stand
+__label__Antony flatter caesar would mingl eye one tie point
+__label__Cleopatra time time laugh would patienc night laugh would patienc next morn ere ninth hour drunk bed put tire mantl whilst wore sword philippan enter messeng itali ram thi fruit tide mine ear long time barren
+__label__Queen_Margaret mine fill heart unhop joy
+__label__Cleopatra monument mardian go tell slain say last spoke antoni word prithe piteous henc mardian bring take death monument
+__label__Cleopatra didst behold octavia
+__label__Cleopatra none antoni conquer antoni woe noti
+__label__Queen_Margaret cheer heart see forward
+__label__Antony stirr would cleopatra love love soft hour let confound time confer harsh minut live stretch without pleasur sport tonight
